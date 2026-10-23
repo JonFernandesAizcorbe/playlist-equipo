@@ -1,8 +1,9 @@
 {
   "nombre": "Playlist de Zam y Jon",
-  "genero": "indie",
+  "genero": "pop",
   "canciones": [
     "Canción 1",
-    "Canción 2"
+    "Canción 2",
+    "Canción 3"
   ]
 }
